@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Meu nome é Cauã, tenho 19 anos e sou estudante de programação. Atualmente estou estudando JavaScript com foco em desenvolvimento front-end, criação de interfaces, manipulação do DOM, consumo de APIs e projetos práticos para evoluir como desenvolvedor.<br><br>- 🔭 Estou procurando uma oportunidade como desenvolvedor front-end júnior.<br>- 📚 Atualmente estou aprendendo React.<br>- 🚀 Tenho interesse em React.js, JavaScript, APIs e interfaces modernas.<br>- 🎯 Objetivo: me tornar desenvolvedor front-end.<br>- ⚡ No meu tempo livre, estudo crescimento pessoal, jogo alguns jogos e escuto música.</p>
+<p align="left">Meu nome é Cauã, tenho 19 anos e sou estudante de programação. Atualmente estou focado em desenvolvimento front-end, criação de interfaces, design responsivo, uso de bibliotecas e Frameworks JavaScript, manipulação do DOM, consumo de APIs e projetos práticos para evoluir como desenvolvedor.<br><br>- 🔭 Estou procurando uma oportunidade como desenvolvedor front-end júnior.<br>- 📚 Atualmente estou aprendendo React.<br>- 🚀 Tenho interesse em React.js, JavaScript, APIs e interfaces modernas.<br>- 🎯 Objetivo: me tornar desenvolvedor front-end.<br>- ⚡ No meu tempo livre, estudo crescimento pessoal, jogo alguns jogos e escuto música.</p>
 
 ###
 
